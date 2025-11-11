@@ -1,5 +1,4 @@
 # Install Cirq and Bitcoin libraries
-!pip install cirq cirq-google bit
 
 import cirq
 import numpy as np
